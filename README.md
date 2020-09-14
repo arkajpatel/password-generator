@@ -16,4 +16,4 @@ j = input("Do you want any special characters in your password?"+ "\n"+ "1 for y
 if j == 0:
   print(opp(n))
 else:
-  print(opp#(p))  
+  print(oppr(p))  
